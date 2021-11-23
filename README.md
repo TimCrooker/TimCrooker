@@ -29,4 +29,5 @@
 <code><img height="30" src="https://w7.pngwing.com/pngs/657/442/png-transparent-adobe-brand-brands-logo-logos-photoshop-logos-brands-icon-thumbnail.png"></code>
 ****
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=TimCrooker&count_private=true&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimCrooker&layout=compact"></div>
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TimCrooker&count_private=true&show_icons=true"></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimCrooker&layout=compact"> | </a>
+
