@@ -5,13 +5,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://iconape.com/wp-content/files/hq/370977/svg/370977.svg"></code>
 
-**Frameworks:**
+**Frameworks & Libs:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo-thumbnail.png"></code>
 <code><img height="30" src="https://iconape.com/wp-content/files/mc/370910/svg/370910.svg"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png"></code>
 <code><img height="30" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png"></code>
+<code><img height="30" src="https://www.pngfind.com/pngs/m/430-4309574_mongoose-js-logo.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/57/376/png-transparent-d3-js-javascript-library-data-visualization-tips-miscellaneous-text-trademark-thumbnail.png"></code>
 
 **DB:**  
