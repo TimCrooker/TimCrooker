@@ -27,8 +27,9 @@
 <code><img height="30" src="https://iconape.com/wp-content/files/an/371180/svg/371180.svg"></code>
 <code><img height="30" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/657/442/png-transparent-adobe-brand-brands-logo-logos-photoshop-logos-brands-icon-thumbnail.png"></code>
+
 ****
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TimCrooker&count_private=true&show_icons=true" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimCrooker&layout=compact" /></a> |
-| - | - |
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=TimCrooker&count_private=true&show_icons=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimCrooker&layout=compact" /></a>
 
