@@ -20,6 +20,7 @@
 **DB:**  
 
 <code><img height="30" src="https://icon2.cleanpng.com/20180403/rww/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9eb3d294.1874788615228143667366.jpg"></code>
+<code><img height="30" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
 
 **Tools:**  
 
